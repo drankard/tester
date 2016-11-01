@@ -1,0 +1,1 @@
+Denne fil var lagt i dir før encryption hooks 
